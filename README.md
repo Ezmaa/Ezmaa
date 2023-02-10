@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ezinma</h1>
+<h1 align="center">Hi 👋, I'm Ezinma (Ezma)</h1>
 <h3 align="center">A passionate full stack developer from New Hampshire</h3>
 
 - 📫 How to reach me **ezinmark@gmail.com**
